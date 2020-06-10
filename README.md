@@ -2,7 +2,7 @@
 Xcode DeviceSupport files (iPhoneOS / AppleTVOS / WatchOS)
 
 * iPhoneOS
-  * iOS 8.0 ~ 13.5
+  * iOS 8.0 ~ 13.6
 
 * AppleTVOS
   * tvOS 9.0 ~ 13.4
